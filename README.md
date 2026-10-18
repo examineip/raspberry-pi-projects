@@ -1,7 +1,8 @@
 # raspberry-pi-projects
 
-The ten scripts from the book **Raspberry Pi for Absolute Beginners: Set It Up, Learn It, and Build
-Twelve Real Projects** (For Absolute Beginners, volume 6, by [ExamineIP](https://examineip.com)).
+The ten scripts from the book **[Raspberry Pi for Absolute Beginners: Set It Up, Learn It, and Build
+Twelve Real Projects](https://www.amazon.com/dp/B0HNFVK2QB)** (For Absolute Beginners, volume 6, by
+[ExamineIP](https://examineip.com)).
 Download them here so you never have to type one out.
 
 ```bash
